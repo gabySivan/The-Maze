@@ -1,0 +1,9 @@
+﻿  Main.cpp
+  Maze.cpp
+c:\gaby\bsccs\שנה ב\סמסטר א\מבני נתונים\maze\maze.cpp(98): warning C4101: 'rowNum': unreferenced local variable
+c:\gaby\bsccs\שנה ב\סמסטר א\מבני נתונים\maze\maze.cpp(98): warning C4101: 'colNum': unreferenced local variable
+  Node.cpp
+  Point.cpp
+  Stack.cpp
+  Generating Code...
+  The Maze.vcxproj -> C:\Gaby\BScCS\שנה ב\סמסטר א\מבני נתונים\maze\The Maze\Debug\The Maze.exe
